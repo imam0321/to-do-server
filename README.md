@@ -11,5 +11,7 @@ npm i --save-dev @types/express
 tsc
 tsc -w
 
+npm install mongodb
+npm i dotenv
 
 ```
